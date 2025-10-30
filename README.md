@@ -1,7 +1,7 @@
 # 🌤 Weather App
 
 ## 📖 Description
-*Weather App* is a simple web application built with *Vanilla HTML, CSS, and JavaScript*.  
+*Weather App* is a simple web application built with *Vanilla HTML, CSS, JavaScript, and **Bootstrap*.  
 It allows users to search for a city and see the weather for *today and the next two days* using a public Weather API.
 
 ---
@@ -10,7 +10,7 @@ It allows users to search for a city and see the weather for *today and the next
 - Search weather by city name  
 - Display current temperature, humidity, and weather conditions  
 - Show weather forecast for *today and the next two days*  
-- Responsive design for desktop and mobile  
+- Responsive design for desktop and mobile using *Bootstrap*  
 - Uses *Vanilla JS* for DOM manipulation and API calls
 
 ---
@@ -19,6 +19,7 @@ It allows users to search for a city and see the weather for *today and the next
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
+- *Bootstrap* for responsive layout and components  
 - Fetch API for weather data
 
 ---
@@ -32,5 +33,5 @@ It allows users to search for a city and see the weather for *today and the next
 
 ## 👩‍💻 Author
 *Rabab Ahmed*  
-Personal project built to practice basic front-end skills with HTML, CSS, and JavaScript.  
+Personal project built to practice basic front-end skills with HTML, CSS, JavaScript, and Bootstrap.  
 💼 GitHub: [github.com/rabab157](https://github.com/rabab157) 

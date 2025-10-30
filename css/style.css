@@ -7,23 +7,25 @@ img.navbar-brand{
     padding: 0%;
 
 }
+.content{
+    background-color: rgb(45, 45, 50);
+    padding-bottom: 30px;
+}
 .navbar-nav a:hover{
-    border: 3px rgb(10, 10, 156) solid ;
-    border-radius: 20px;
     color: rgb(10, 10, 156) !important;
 }
 
-.content{
-    background-image: url(../banner.png);
-    background-repeat: no-repeat;
+#search{
+    background-color: rgb(215, 219, 222);
 }
 #search::placeholder{
-    color: #aaa;
+    color: #3f3e3e;
 }
-a:hover{
-   
+.btn{
+    background-color: rgb(22, 22, 126) !important;
 }
+
 a:hover i{
    color: white;
-    background-color: rgb(38, 38, 167) !important;
+    background-color: rgb(22, 22, 126) !important;
 }
