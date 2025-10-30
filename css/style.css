@@ -1,0 +1,29 @@
+img.navbar-brand{
+    width: 64px;
+    height: 38px;
+}
+.navbar-nav a{
+    color: white !important;
+    padding: 0%;
+
+}
+.navbar-nav a:hover{
+    border: 3px rgb(10, 10, 156) solid ;
+    border-radius: 20px;
+    color: rgb(10, 10, 156) !important;
+}
+
+.content{
+    background-image: url(../banner.png);
+    background-repeat: no-repeat;
+}
+#search::placeholder{
+    color: #aaa;
+}
+a:hover{
+   
+}
+a:hover i{
+   color: white;
+    background-color: rgb(38, 38, 167) !important;
+}
